@@ -1,0 +1,106 @@
+{
+  "poem": {
+    "kor": [
+      {
+        "title": "하늘",
+        "name": "하늘을 우러러 한 점 부끄럼이 없기를",
+        "content": "하늘을 우러러 한 점 부끄럼이 없기를 바라며 살아갑니다."
+      },
+      {
+        "title": "꽃잎",
+        "name": "꽃잎은 떨어져도 향기는 남는다",
+        "content": "꽃잎은 떨어져도 그 향기는 오래도록 남아 있습니다."
+      }
+    ],
+    "eng": [
+      {
+        "title": "Sky",
+        "name": "The sky is blue and so am I.",
+        "content": "The sky is blue, reflecting the serene and calm nature within me."
+      },
+      {
+        "title": "Petals",
+        "name": "The petals fall but the fragrance remains.",
+        "content": "Even as petals fall, their sweet fragrance lingers in the air."
+      }
+    ]
+  },
+  "word": {
+    "kor": [
+      {
+        "title": "사랑",
+        "name": "사랑",
+        "content": "사랑은 모든 것을 가능하게 하는 힘입니다."
+      },
+      {
+        "title": "희망",
+        "name": "희망",
+        "content": "희망은 삶을 지속하게 하는 원동력입니다."
+      }
+    ],
+    "eng": [
+      {
+        "title": "Love",
+        "name": "Love",
+        "content": "Love is the force that makes everything possible."
+      },
+      {
+        "title": "Hope",
+        "name": "Hope",
+        "content": "Hope is the driving force that keeps life going."
+      }
+    ]
+  },
+  "saying": {
+    "kor": [
+      {
+        "title": "말",
+        "name": "가는 말이 고와야 오는 말이 곱다",
+        "content": "상대방에게 좋은 말을 해야 나에게도 좋은 말이 돌아온다."
+      },
+      {
+        "title": "호랑이",
+        "name": "호랑이도 제 말 하면 온다",
+        "content": "어떤 사람에 대해 이야기하면 그 사람이 나타난다."
+      }
+    ],
+    "eng": [
+      {
+        "title": "What goes around",
+        "name": "What goes around comes around.",
+        "content": "Your actions, good or bad, will eventually come back to you."
+      },
+      {
+        "title": "Speak of the devil",
+        "name": "Speak of the devil and he shall appear.",
+        "content": "When you mention someone, they often appear unexpectedly."
+      }
+    ]
+  },
+  "custom": {
+    "kor": [
+      {
+        "title": "명절",
+        "name": "명절에 차례를 지내다",
+        "content": "명절에는 조상님께 차례를 지내며 감사의 마음을 전합니다."
+      },
+      {
+        "title": "한복",
+        "name": "한복을 입다",
+        "content": "한복을 입으면 전통적인 아름다움을 느낄 수 있습니다."
+      }
+    ],
+    "eng": [
+      {
+        "title": "Holidays",
+        "name": "Celebrate the holidays with ancestral rites.",
+        "content": "During the holidays, we perform ancestral rites to show gratitude."
+      },
+      {
+        "title": "Hanbok",
+        "name": "Wear traditional Korean clothing.",
+        "content": "Wearing Hanbok allows you to experience traditional beauty."
+      }
+    ]
+  }
+}
